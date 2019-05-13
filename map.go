@@ -151,6 +151,7 @@ const (
 	XnYnZn = b111
 )
 */
+
 func SyncObject(obj Object, from, to Submap) {
 
 }
